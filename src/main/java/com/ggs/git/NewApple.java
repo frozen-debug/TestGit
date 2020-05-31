@@ -5,5 +5,6 @@ public class NewApple {
 		System.out.println("xxxxxxx");
 		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		System.out.println("new guys");
+		System.out.println("origin");
 	}
 }
